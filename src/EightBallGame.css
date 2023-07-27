@@ -1,0 +1,13 @@
+.Ball {
+    margin: 50px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
